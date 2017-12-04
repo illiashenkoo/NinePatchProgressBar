@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="NinePatchProgressBar">
+        <attr name="np_bg_padding_top" format="dimension"/>
+        <attr name="np_bg_padding_bottom" format="dimension"/>
+        <attr name="np_bg_drawable" format="reference"/>
+        <attr name="np_pb_drawable" format="reference"/>
+        <attr name="np_max" format="integer"/>
+        <attr name="np_progress" format="integer"/>
+    </declare-styleable>
+
+</resources>
