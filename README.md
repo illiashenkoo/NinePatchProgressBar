@@ -1,7 +1,6 @@
 # NinePatchProgressBar
 
-
-![image](https://github.com/illiashenkoo/NinePatchProgressBar/tree/master/gif/screen.gif)
+<img src="https://github.com/illiashenkoo/NinePatchProgressBar/tree/master/gif/screen.gif" width="320px" height="569px"/>
 
 ## Usage
 
